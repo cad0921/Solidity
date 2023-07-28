@@ -2,3 +2,6 @@
 2. npm init
 3. npm i --save-dev hardhat #install hrdhat
 4. npx hardhat
+5. npm install --save-dev "hardhat@^2.17.0" "@nomicfoundation/hardhat-toolbox@^3.0.0"
+6. npm i @openzeppelin/contracts
+
