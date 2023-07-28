@@ -1,0 +1,4 @@
+1. install npm  ( https://nodejs.org/en/download</span> )
+2. npm init
+3. npm i --save-dev hardhat #install hrdhat
+4. npx hardhat
